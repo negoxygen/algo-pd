@@ -1,25 +1,10 @@
-# ALGO PD
-
-> Algorithms and Data Structures Solutions
-> Let us make this repo that have many solution many many many . :D
-> Everyone is highly encouraged to partipate in this project regardless of you knowledge.
-
 ## Getting Started with Hacktoberfest
 
 Hacktoberfest is a month-long celebration of open source, organised by Digital Ocean.
 
 These two resources have everything you need to learn about open-source, with a step-by-step guide to making your very first PR. Once you've got your feet wet, you're ready to come back and dive into Hacktoberfest fun!
 
-## Rules
-
-- Do not Solution. 
-- Please make sure the solution is in correct folder .
-
 ## How to contribute
-
-Important: 
-
-Please create your account here https://hacktoberfest.com/ and link you github account.
 
 1. First up you need to fork (make a copy) of this repo to your Github account.
 
@@ -42,4 +27,3 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 7.  Commit and push the code to your fork
 
 8.  Create a pull request to have the changes merged from your fork into the origin
----
