@@ -28,7 +28,7 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 3. Set your streams so you can sync your clone with the original repo (get the latest updates)
 
    - `git remote add upstream https://github.com/negoxygen/resourse-pd.git`
-   - `git pull upstream master`
+   - `git pull upstream main`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
 4. Create a branch
@@ -37,7 +37,7 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 
 6.  Pull from the upstream again, like we did in step 3. This is to ensure we still have the latest code.
 
-    - `git pull upstream master`
+    - `git pull upstream main`
 
 7.  Commit and push the code to your fork
 

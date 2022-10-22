@@ -1,0 +1,19 @@
+{
+  "name": "resourse-pd",
+  "version": "1.0.0",
+  "description": "> There are many resourse for learning new techs available in this big universe. > Let us make this repo that universe. :D > Everyone is highly encouraged to partipate in this project regardless of you knowledge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrijaltamrakar/resourse-pd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrijaltamrakar/resourse-pd/issues"
+  },
+  "homepage": "https://github.com/shrijaltamrakar/resourse-pd#readme"
+}
