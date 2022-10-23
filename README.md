@@ -1,7 +1,7 @@
 # ALGO PD
 
 > Algorithms and Data Structures Solutions
-> Let us make this repo that have many solution many many many . :D
+> Let us make this repo that have many solutions. :D
 > Everyone is highly encouraged to partipate in this project regardless of you knowledge.
 
 ## Getting Started with Hacktoberfest
@@ -12,12 +12,12 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Rules
 
-- Do not Solution. 
+- Do not Solution.
 - Please make sure the solution is in correct folder .
 
 ## How to contribute
 
-Important: 
+Important:
 
 Please create your account here https://hacktoberfest.com/ and link you github account.
 
@@ -43,3 +43,19 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 
 8.  Create a pull request to have the changes merged from your fork into the origin
 ---
+# Resources:
+
+## Javascript
+
+1. [You dont know JS by Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)
+2. [Promises & Async/Await by Lydia Hallies](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+
+## Ruby
+1. [Ruby Monk](https://rubymonk.com/)
+2. [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
+
+
+
+## Node
+1. [Build a Node.js project from scratch](https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/)
+2.
