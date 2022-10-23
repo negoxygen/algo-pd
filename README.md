@@ -1,7 +1,7 @@
-# Resources PD
+# ALGO PD
 
-> There are many resourse for learning new techs available in this big universe.
-> Let us make this repo that universe. :D
+> Algorithms and Data Structures Solutions
+> Let us make this repo that have many solutions. :D
 > Everyone is highly encouraged to partipate in this project regardless of you knowledge.
 
 ## Getting Started with Hacktoberfest
@@ -12,12 +12,12 @@ These two resources have everything you need to learn about open-source, with a 
 
 ## Rules
 
-- Do not Solution. 
+- Do not Solution.
 - Please make sure the solution is in correct folder .
 
 ## How to contribute
 
-Important: 
+Important:
 
 Please create your account here https://hacktoberfest.com/ and link you github account.
 
