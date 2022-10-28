@@ -54,8 +54,11 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 1. [Ruby Monk](https://rubymonk.com/)
 2. [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 
-
-
 ## Node
 1. [Build a Node.js project from scratch](https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/)
 2.
+
+## Practicing Data Structures
+1. [GeeksforGeeks][https://www.geeksforgeeks.org/data-structures/]
+
+
