@@ -55,10 +55,20 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 2. [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 
 ## Node
-1. [Build a Node.js project from scratch](https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/)
-2.
+1. [Build a Node.js project from scratch](https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/
+
+## Elixir
+1. [Elixir Exercism](https://exercism.org/tracks/elixir)
+
+## Blockchain
+1. [Ethereum smart contract security checklist](https://ethereum.stackexchange.com/questions/8551/ethereum-smart-contract-security-checklist/8593#8593)
+
+## Product Mangement
+1. [How to write Product Requirement Document (PRD)](https://www.mustafanafees.com/how-to-write-a-product-requirement-document/)
+
+## Programming Books
+1. [Best programming books](https://www.best-books.dev/list/best-programming-books)
 
 ## Practicing Data Structures
-1. [GeeksforGeeks][https://www.geeksforgeeks.org/data-structures/]
-
+1. [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
 
