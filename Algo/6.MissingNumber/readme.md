@@ -1,0 +1,1 @@
+Find the missing number from the array of number.
