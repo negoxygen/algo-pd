@@ -33,7 +33,7 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 
 4. Create a branch
 
-5. Add resouse in the resource md.
+5. Add resource in the resource md.
 
 6.  Pull from the upstream again, like we did in step 3. This is to ensure we still have the latest code.
 
@@ -54,11 +54,8 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 1. [Ruby Monk](https://rubymonk.com/)
 2. [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby)
 
-
-
 ## Node
-1. [Build a Node.js project from scratch](https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/)
-
+1. [Build a Node.js project from scratch](https://anotheruiguy.gitbooks.io/nodeexpreslibsass_from-scratch/content/
 
 ## Elixir
 1. [Elixir Exercism](https://exercism.org/tracks/elixir)
@@ -74,3 +71,4 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 
 ## Practicing Data Structures
 1. [GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
+
