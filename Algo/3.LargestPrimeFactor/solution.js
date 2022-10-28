@@ -20,6 +20,5 @@ function maxPrimeFactor(n) {
 			n = n / (i + 2);
 		}
 	}
-
 	return n > 4 ? n : maxPrime;
 }
