@@ -27,7 +27,7 @@ Please create your account here https://hacktoberfest.com/ and link you github a
 
 3. Set your streams so you can sync your clone with the original repo (get the latest updates)
 
-   - `git remote add upstream https://github.com/negoxygen/resourse-pd.git`
+   - `git remote add upstream https://github.com/negoxygen/algo-pd.git`
    - `git pull upstream main`
    - The above 2 commands will synchronize your forked version of the project with the actual repository.
 
